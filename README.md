@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lidl2019
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software design / machine learning
 - 🌱 I’m currently a Computer Science student at McGill University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️
+- 📫 How to reach me: Lidl200147@gmail.com
 
 <!---
 lidl2019/lidl2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
