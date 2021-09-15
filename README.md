@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lidl2019
+- 👋 Hi, I’m Dailun Li
 - 👀 I’m interested in Software design / machine learning
 - 🌱 I’m currently a Computer Science student at McGill University
 - 💞️
